@@ -1,4 +1,5 @@
-This repository showcases the files and code use to complete my Computational Intelligence module as part of my third year MEng degree at Cardiff Metropolitan University
+This repository showcases the files and code use to complete my Computational Intelligence module as part of my third year MEng degree at Cardiff Metropolitan University.
+
 Here are the key notes to read before accessing the code: 
 
 Congressional Voting Analysis: Custom ANN & K-Means Clustering
