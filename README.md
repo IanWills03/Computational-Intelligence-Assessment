@@ -1,3 +1,6 @@
+This repository showcases the files and code use to complete my Autonomous Systems module as part of my second year MEng degree at Cardiff Metropolitan University
+Here are the key notes to read before accessing the code: 
+
 Congressional Voting Analysis: Custom ANN & K-Means Clustering
 
 This project applies computational intelligence techniques to the UCI Congressional Voting Records dataset to classify political affiliations.
